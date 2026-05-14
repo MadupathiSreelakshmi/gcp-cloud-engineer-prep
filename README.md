@@ -32,8 +32,6 @@ This was a **self-paced learning path** offered by Google Cloud to help learners
 ## 🏅 Badge
 
 - Completion badge from Google Cloud Skill Boost:  
-  ![Badge](gcp-badge.png)
-
----
+ 1. ![Screenshot](https://github.com/user-attachments/assets/d807a008-1075-4c18-aa4a-fcfd4d420a53)
 
 > 🧠 This learning path helped me understand the core services of Google Cloud and how they are used in real cloud projects.
